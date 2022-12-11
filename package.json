@@ -1,13 +1,16 @@
 {
   "name": "work0008",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "เว็บพนันฟุตบอลออนไลน์ สมัครแทงบอลโลกครบทุกแมตช์ ด้วยค่าน้ำดีที่ีสุดในไทย พร้อมคืนค่าคอม 0.5% ทุกยอดแทง",
   "keywords": [
-    "syntax",
-    "theme"
+    "แทงบอลโลก",
+    "แทงบอลออนไลน์",
+    "เว็บพนันบอล",
+    "แทงบอลเว็บตรง",
+    "พนันบอลออนไลน์"
   ],
-  "repository": "https://github.com/atom/work0008",
+  "repository": "https://github.com/Fameraider/work0008",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
